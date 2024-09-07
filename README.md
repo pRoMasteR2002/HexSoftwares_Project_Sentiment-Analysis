@@ -10,7 +10,7 @@ User Input: Allows users to input their own feedback for analysis.
 
 **Installation**
 Clone the repository:
-git clone https://github.com/pRoMasteR2002/sentiment-analysis-feedback.git
+git clone https://github.com/pRoMasteR2002/HexSoftwares_Project_Sentiment-Analysis.git
 
 Install the required libraries:
 pip install textblob nltk
